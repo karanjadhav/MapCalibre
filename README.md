@@ -7,6 +7,7 @@ What the app can do?
 
 This app tells you the location (also address and contact numbers) of Hospitals, Blood Banks, Medicals, Banks and ATMs.
 This app is based on static map where we have prefetched the data, so as for now no live facilities would be available.
+(Note: Kindly ignore the error message at the launch of app, wait for few seconds the map will be loaded fully)
 
 The link and source code to the Android app is given above, kindly give it a try and give us your feedback.
 Hope you all like this project. 😊
